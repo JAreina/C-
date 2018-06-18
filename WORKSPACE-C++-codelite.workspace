@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="WORKSPACE-C++-codelite" Database="">
-  <Project Name="1-hola-mundo" Path="1-hola-mundo/1-hola-mundo.project" Active="Yes"/>
+  <Project Name="1-hola-mundo" Path="1-hola-mundo/1-hola-mundo.project" Active="No"/>
+  <Project Name="2-funcion-inline" Path="2-funcion-inline/2-funcion-inline.project" Active="No"/>
+  <Project Name="3-operador-de-alcance-de-variables" Path="3-operador-de-alcance-de-variables/3-operador-de-alcance-de-variables.project" Active="No"/>
+  <Project Name="4-sobrecarga-de-funciones" Path="4-sobrecarga-de-funciones/4-sobrecarga-de-funciones.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="1-hola-mundo" ConfigName="Debug"/>
+      <Project Name="2-funcion-inline" ConfigName="Debug"/>
+      <Project Name="3-operador-de-alcance-de-variables" ConfigName="Debug"/>
+      <Project Name="4-sobrecarga-de-funciones" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="1-hola-mundo" ConfigName="Release"/>
+      <Project Name="2-funcion-inline" ConfigName="Release"/>
+      <Project Name="3-operador-de-alcance-de-variables" ConfigName="Release"/>
+      <Project Name="4-sobrecarga-de-funciones" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
