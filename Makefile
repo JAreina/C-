@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 12-IF-MAYOR - Debug ]----------"
-	@cd "12-IF-MAYOR" && "$(MAKE)" -f  "12-IF-MAYOR.mk"
+	@echo "----------Building project:[ 13-IF-ELSE-IF - Debug ]----------"
+	@cd "13-IF-ELSE-IF" && "$(MAKE)" -f  "13-IF-ELSE-IF.mk"
 clean:
-	@echo "----------Cleaning project:[ 12-IF-MAYOR - Debug ]----------"
-	@cd "12-IF-MAYOR" && "$(MAKE)" -f  "12-IF-MAYOR.mk" clean
+	@echo "----------Cleaning project:[ 13-IF-ELSE-IF - Debug ]----------"
+	@cd "13-IF-ELSE-IF" && "$(MAKE)" -f  "13-IF-ELSE-IF.mk" clean
