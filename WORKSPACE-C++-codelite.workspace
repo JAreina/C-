@@ -3,7 +3,12 @@
   <Project Name="1-hola-mundo" Path="1-hola-mundo/1-hola-mundo.project" Active="No"/>
   <Project Name="2-funcion-inline" Path="2-funcion-inline/2-funcion-inline.project" Active="No"/>
   <Project Name="3-operador-de-alcance-de-variables" Path="3-operador-de-alcance-de-variables/3-operador-de-alcance-de-variables.project" Active="No"/>
-  <Project Name="4-sobrecarga-de-funciones" Path="4-sobrecarga-de-funciones/4-sobrecarga-de-funciones.project" Active="Yes"/>
+  <Project Name="4-sobrecarga-de-funciones" Path="4-sobrecarga-de-funciones/4-sobrecarga-de-funciones.project" Active="No"/>
+  <Project Name="5-euros-pesetas" Path="5-euros-pesetas/5-euros-pesetas.project" Active="No"/>
+  <Project Name="6-biblioteca-standar-formato-iomanip" Path="6-biblioteca-standar-formato-iomanip/6-biblioteca-standar-formato-iomanip.project" Active="No"/>
+  <Project Name="7-cin-cout" Path="7-cin-cout/7-cin-cout.project" Active="No"/>
+  <Project Name="8-cin-get" Path="8-cin-get/8-cin-get.project" Active="No"/>
+  <Project Name="9-control-de-estado-flujo-cin" Path="9-control-de-estado-flujo-cin/9-control-de-estado-flujo-cin.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -11,6 +16,11 @@
       <Project Name="2-funcion-inline" ConfigName="Debug"/>
       <Project Name="3-operador-de-alcance-de-variables" ConfigName="Debug"/>
       <Project Name="4-sobrecarga-de-funciones" ConfigName="Debug"/>
+      <Project Name="5-euros-pesetas" ConfigName="Debug"/>
+      <Project Name="6-biblioteca-standar-formato-iomanip" ConfigName="Debug"/>
+      <Project Name="7-cin-cout" ConfigName="Debug"/>
+      <Project Name="8-cin-get" ConfigName="Debug"/>
+      <Project Name="9-control-de-estado-flujo-cin" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -18,6 +28,11 @@
       <Project Name="2-funcion-inline" ConfigName="Release"/>
       <Project Name="3-operador-de-alcance-de-variables" ConfigName="Release"/>
       <Project Name="4-sobrecarga-de-funciones" ConfigName="Release"/>
+      <Project Name="5-euros-pesetas" ConfigName="Release"/>
+      <Project Name="6-biblioteca-standar-formato-iomanip" ConfigName="Release"/>
+      <Project Name="7-cin-cout" ConfigName="Release"/>
+      <Project Name="8-cin-get" ConfigName="Release"/>
+      <Project Name="9-control-de-estado-flujo-cin" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -3,10 +3,10 @@
 ## any manual changes will be erased      
 ##
 ## Debug
-ProjectName            :=4-sobrecarga-de-funciones
+ProjectName            :=7-cin-cout
 ConfigurationName      :=Debug
-WorkspacePath          := "/home/juan/WORKSPACE-C++-codelite"
-ProjectPath            := "/home/juan/WORKSPACE-C++-codelite/4-sobrecarga-de-funciones"
+WorkspacePath          := "/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite"
+ProjectPath            := "/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/7-cin-cout"
 IntermediateDirectory  :=./Debug
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
@@ -32,7 +32,7 @@ Preprocessors          :=
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
 PreprocessOnlySwitch   :=-E 
-ObjectsFileList        :="4-sobrecarga-de-funciones.txt"
+ObjectsFileList        :="7-cin-cout.txt"
 PCHCompileFlags        :=
 MakeDirCommand         :=mkdir -p
 LinkOptions            :=  
@@ -92,7 +92,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/juan/WORKSPACE-C++-codelite/4-sobrecarga-de-funciones/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/7-cin-cout/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM "main.cpp"
 

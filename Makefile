@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 4-sobrecarga-de-funciones - Debug ]----------"
-	@cd "4-sobrecarga-de-funciones" && "$(MAKE)" -f  "4-sobrecarga-de-funciones.mk"
+	@echo "----------Building project:[ 9-control-de-estado-flujo-cin - Debug ]----------"
+	@cd "9-control-de-estado-flujo-cin" && "$(MAKE)" -f  "9-control-de-estado-flujo-cin.mk"
 clean:
-	@echo "----------Cleaning project:[ 4-sobrecarga-de-funciones - Debug ]----------"
-	@cd "4-sobrecarga-de-funciones" && "$(MAKE)" -f  "4-sobrecarga-de-funciones.mk" clean
+	@echo "----------Cleaning project:[ 9-control-de-estado-flujo-cin - Debug ]----------"
+	@cd "9-control-de-estado-flujo-cin" && "$(MAKE)" -f  "9-control-de-estado-flujo-cin.mk" clean
