@@ -8,7 +8,8 @@
   <Project Name="6-biblioteca-standar-formato-iomanip" Path="6-biblioteca-standar-formato-iomanip/6-biblioteca-standar-formato-iomanip.project" Active="No"/>
   <Project Name="7-cin-cout" Path="7-cin-cout/7-cin-cout.project" Active="No"/>
   <Project Name="8-cin-get" Path="8-cin-get/8-cin-get.project" Active="No"/>
-  <Project Name="9-control-de-estado-flujo-cin" Path="9-control-de-estado-flujo-cin/9-control-de-estado-flujo-cin.project" Active="Yes"/>
+  <Project Name="9-control-de-estado-flujo-cin" Path="9-control-de-estado-flujo-cin/9-control-de-estado-flujo-cin.project" Active="No"/>
+  <Project Name="10-variable-global-local" Path="10-variable-global-local/10-variable-global-local.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -21,6 +22,7 @@
       <Project Name="7-cin-cout" ConfigName="Debug"/>
       <Project Name="8-cin-get" ConfigName="Debug"/>
       <Project Name="9-control-de-estado-flujo-cin" ConfigName="Debug"/>
+      <Project Name="10-variable-global-local" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -33,6 +35,7 @@
       <Project Name="7-cin-cout" ConfigName="Release"/>
       <Project Name="8-cin-get" ConfigName="Release"/>
       <Project Name="9-control-de-estado-flujo-cin" ConfigName="Release"/>
+      <Project Name="10-variable-global-local" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
