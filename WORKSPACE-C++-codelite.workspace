@@ -12,7 +12,8 @@
   <Project Name="10-variable-global-local" Path="10-variable-global-local/10-variable-global-local.project" Active="No"/>
   <Project Name="11-IF" Path="11-IF/11-IF.project" Active="No"/>
   <Project Name="12-IF-MAYOR" Path="12-IF-MAYOR/12-IF-MAYOR.project" Active="No"/>
-  <Project Name="13-IF-ELSE-IF" Path="13-IF-ELSE-IF/13-IF-ELSE-IF.project" Active="Yes"/>
+  <Project Name="13-IF-ELSE-IF" Path="13-IF-ELSE-IF/13-IF-ELSE-IF.project" Active="No"/>
+  <Project Name="14-SWITCH" Path="14-SWITCH/14-SWITCH.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -29,6 +30,7 @@
       <Project Name="11-IF" ConfigName="Debug"/>
       <Project Name="12-IF-MAYOR" ConfigName="Debug"/>
       <Project Name="13-IF-ELSE-IF" ConfigName="Debug"/>
+      <Project Name="14-SWITCH" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -45,6 +47,7 @@
       <Project Name="11-IF" ConfigName="Release"/>
       <Project Name="12-IF-MAYOR" ConfigName="Release"/>
       <Project Name="13-IF-ELSE-IF" ConfigName="Release"/>
+      <Project Name="14-SWITCH" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
