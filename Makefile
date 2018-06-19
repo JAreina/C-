@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 10-variable-global-local - Debug ]----------"
-	@cd "10-variable-global-local" && "$(MAKE)" -f  "10-variable-global-local.mk"
+	@echo "----------Building project:[ 11-IF - Debug ]----------"
+	@cd "11-IF" && "$(MAKE)" -f  "11-IF.mk"
 clean:
-	@echo "----------Cleaning project:[ 10-variable-global-local - Debug ]----------"
-	@cd "10-variable-global-local" && "$(MAKE)" -f  "10-variable-global-local.mk" clean
+	@echo "----------Cleaning project:[ 11-IF - Debug ]----------"
+	@cd "11-IF" && "$(MAKE)" -f  "11-IF.mk" clean
