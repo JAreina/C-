@@ -10,7 +10,8 @@
   <Project Name="8-cin-get" Path="8-cin-get/8-cin-get.project" Active="No"/>
   <Project Name="9-control-de-estado-flujo-cin" Path="9-control-de-estado-flujo-cin/9-control-de-estado-flujo-cin.project" Active="No"/>
   <Project Name="10-variable-global-local" Path="10-variable-global-local/10-variable-global-local.project" Active="No"/>
-  <Project Name="11-IF" Path="11-IF/11-IF.project" Active="Yes"/>
+  <Project Name="11-IF" Path="11-IF/11-IF.project" Active="No"/>
+  <Project Name="12-IF-MAYOR" Path="12-IF-MAYOR/12-IF-MAYOR.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -25,6 +26,7 @@
       <Project Name="9-control-de-estado-flujo-cin" ConfigName="Debug"/>
       <Project Name="10-variable-global-local" ConfigName="Debug"/>
       <Project Name="11-IF" ConfigName="Debug"/>
+      <Project Name="12-IF-MAYOR" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -39,6 +41,7 @@
       <Project Name="9-control-de-estado-flujo-cin" ConfigName="Release"/>
       <Project Name="10-variable-global-local" ConfigName="Release"/>
       <Project Name="11-IF" ConfigName="Release"/>
+      <Project Name="12-IF-MAYOR" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
