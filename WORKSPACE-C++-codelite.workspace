@@ -24,7 +24,13 @@
   <Project Name="22-FUNCIONES" Path="22-FUNCIONES/22-FUNCIONES.project" Active="No"/>
   <Project Name="23-PROTOTIPOS" Path="23-PROTOTIPOS/23-PROTOTIPOS.project" Active="No"/>
   <Project Name="24-cassert" Path="24-cassert/24-cassert.project" Active="No"/>
-  <Project Name="25-primos" Path="25-primos/25-primos.project" Active="Yes"/>
+  <Project Name="25-primos" Path="25-primos/25-primos.project" Active="No"/>
+  <Project Name="26-string-1" Path="26-string-1/26-string-1.project" Active="No"/>
+  <Project Name="27-string-2" Path="27-string-2/27-string-2.project" Active="No"/>
+  <Project Name="28-string-3-getline" Path="28-string-3/28-string-3.project" Active="No"/>
+  <Project Name="29-string-4-getline-delimitador" Path="29-string-4-getline-delimitador/29-string-4-getline-delimitador.project" Active="No"/>
+  <Project Name="30-string-5" Path="30-string-5/30-string-5.project" Active="No"/>
+  <Project Name="31-string-6-operaciones-predefinidas" Path="31-string-6-operaciones-predefinidas/31-string-6-operaciones-predefinidas.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
@@ -53,6 +59,12 @@
       <Project Name="23-PROTOTIPOS" ConfigName="Debug"/>
       <Project Name="24-cassert" ConfigName="Debug"/>
       <Project Name="25-primos" ConfigName="Debug"/>
+      <Project Name="26-string-1" ConfigName="Debug"/>
+      <Project Name="27-string-2" ConfigName="Debug"/>
+      <Project Name="28-string-3-getline" ConfigName="Debug"/>
+      <Project Name="29-string-4-getline-delimitador" ConfigName="Debug"/>
+      <Project Name="30-string-5" ConfigName="Debug"/>
+      <Project Name="31-string-6-operaciones-predefinidas" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -81,6 +93,12 @@
       <Project Name="23-PROTOTIPOS" ConfigName="Release"/>
       <Project Name="24-cassert" ConfigName="Release"/>
       <Project Name="25-primos" ConfigName="Release"/>
+      <Project Name="26-string-1" ConfigName="Release"/>
+      <Project Name="27-string-2" ConfigName="Release"/>
+      <Project Name="28-string-3-getline" ConfigName="Release"/>
+      <Project Name="29-string-4-getline-delimitador" ConfigName="Release"/>
+      <Project Name="30-string-5" ConfigName="Release"/>
+      <Project Name="31-string-6-operaciones-predefinidas" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

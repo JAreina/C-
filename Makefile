@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 25-primos - Release ]----------"
-	@cd "25-primos" && "$(MAKE)" -f  "25-primos.mk"
+	@echo "----------Building project:[ 31-string-6-operaciones-predefinidas - Release ]----------"
+	@cd "31-string-6-operaciones-predefinidas" && "$(MAKE)" -f  "31-string-6-operaciones-predefinidas.mk"
 clean:
-	@echo "----------Cleaning project:[ 25-primos - Release ]----------"
-	@cd "25-primos" && "$(MAKE)" -f  "25-primos.mk" clean
+	@echo "----------Cleaning project:[ 31-string-6-operaciones-predefinidas - Release ]----------"
+	@cd "31-string-6-operaciones-predefinidas" && "$(MAKE)" -f  "31-string-6-operaciones-predefinidas.mk" clean
