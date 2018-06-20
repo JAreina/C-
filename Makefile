@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 18-DO-WHILE - Debug ]----------"
-	@cd "18-DO-WHILE" && "$(MAKE)" -f  "18-DO-WHILE.mk"
+	@echo "----------Building project:[ 20-FACTORIAL - Debug ]----------"
+	@cd "20-FACTORIAL" && "$(MAKE)" -f  "20-FACTORIAL.mk"
 clean:
-	@echo "----------Cleaning project:[ 18-DO-WHILE - Debug ]----------"
-	@cd "18-DO-WHILE" && "$(MAKE)" -f  "18-DO-WHILE.mk" clean
+	@echo "----------Cleaning project:[ 20-FACTORIAL - Debug ]----------"
+	@cd "20-FACTORIAL" && "$(MAKE)" -f  "20-FACTORIAL.mk" clean
