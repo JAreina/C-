@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="/home/juan/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace">
-  <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="/home/juan/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace" Name="m_workspaceName"/>
+<Session Name="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace">
+  <int Value="6" Name="m_selectedTab"/>
+  <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/home/juan/WORKSPACE-C++-codelite/5-euros-pesetas/main.cpp" Name="FileName"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/8-cin-get/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="3" Name="CurrentLine"/>
+      <int Value="1" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/9-control-de-estado-flujo-cin/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="4" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/10-variable-global-local/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="22" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/11-IF/main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/12-IF-MAYOR/main.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="7" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/13-IF-ELSE-IF/main.cpp" Name="FileName"/>
+      <int Value="6" Name="FirstVisibleLine"/>
+      <int Value="5" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/14-SWITCH/main.cpp" Name="FileName"/>
+      <int Value="27" Name="FirstVisibleLine"/>
+      <int Value="37" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

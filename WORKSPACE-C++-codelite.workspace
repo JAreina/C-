@@ -13,7 +13,9 @@
   <Project Name="11-IF" Path="11-IF/11-IF.project" Active="No"/>
   <Project Name="12-IF-MAYOR" Path="12-IF-MAYOR/12-IF-MAYOR.project" Active="No"/>
   <Project Name="13-IF-ELSE-IF" Path="13-IF-ELSE-IF/13-IF-ELSE-IF.project" Active="No"/>
-  <Project Name="14-SWITCH" Path="14-SWITCH/14-SWITCH.project" Active="Yes"/>
+  <Project Name="14-SWITCH" Path="14-SWITCH/14-SWITCH.project" Active="No"/>
+  <Project Name="15-WHILE" Path="15-WHILE/15-WHILE.project" Active="No"/>
+  <Project Name="16-WHILE-2" Path="16-WHILE-2/16-WHILE-2.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -31,6 +33,8 @@
       <Project Name="12-IF-MAYOR" ConfigName="Debug"/>
       <Project Name="13-IF-ELSE-IF" ConfigName="Debug"/>
       <Project Name="14-SWITCH" ConfigName="Debug"/>
+      <Project Name="15-WHILE" ConfigName="Debug"/>
+      <Project Name="16-WHILE-2" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -48,6 +52,8 @@
       <Project Name="12-IF-MAYOR" ConfigName="Release"/>
       <Project Name="13-IF-ELSE-IF" ConfigName="Release"/>
       <Project Name="14-SWITCH" ConfigName="Release"/>
+      <Project Name="15-WHILE" ConfigName="Release"/>
+      <Project Name="16-WHILE-2" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
