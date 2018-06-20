@@ -1,54 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace">
-  <int Value="6" Name="m_selectedTab"/>
+  <int Value="7" Name="m_selectedTab"/>
   <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/WORKSPACE-C++-codelite.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/8-cin-get/main.cpp" Name="FileName"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/15-WHILE/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="1" Name="CurrentLine"/>
+      <int Value="9" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/9-control-de-estado-flujo-cin/main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="4" Name="CurrentLine"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/16-WHILE-2/main.cpp" Name="FileName"/>
+      <int Value="2" Name="FirstVisibleLine"/>
+      <int Value="6" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/10-variable-global-local/main.cpp" Name="FileName"/>
-      <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="22" Name="CurrentLine"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/17-FOR/main.cpp" Name="FileName"/>
+      <int Value="7" Name="FirstVisibleLine"/>
+      <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/11-IF/main.cpp" Name="FileName"/>
-      <int Value="6" Name="FirstVisibleLine"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/18-DO-WHILE/main.cpp" Name="FileName"/>
+      <int Value="12" Name="FirstVisibleLine"/>
       <int Value="15" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/12-IF-MAYOR/main.cpp" Name="FileName"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/19-PRODUCTO-SIN-MULTIPLICAR/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="7" Name="CurrentLine"/>
+      <int Value="11" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/13-IF-ELSE-IF/main.cpp" Name="FileName"/>
-      <int Value="6" Name="FirstVisibleLine"/>
-      <int Value="5" Name="CurrentLine"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/20-FACTORIAL/main.cpp" Name="FileName"/>
+      <int Value="4" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
     <TabInfo>
-      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/14-SWITCH/main.cpp" Name="FileName"/>
-      <int Value="27" Name="FirstVisibleLine"/>
-      <int Value="37" Name="CurrentLine"/>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/21-dividir-sin-dividir/main.cpp" Name="FileName"/>
+      <int Value="15" Name="FirstVisibleLine"/>
+      <int Value="8" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/22-FUNCIONES/main.cpp" Name="FileName"/>
+      <int Value="18" Name="FirstVisibleLine"/>
+      <int Value="23" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

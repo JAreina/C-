@@ -20,7 +20,9 @@
   <Project Name="18-DO-WHILE" Path="18-DO-WHILE/18-DO-WHILE.project" Active="No"/>
   <Project Name="19-PRODUCTO-SIN-MULTIPLICAR" Path="19-PRODUCTO-SIN-MULTIPLICAR/19-PRODUCTO-SIN-MULTIPLICAR.project" Active="No"/>
   <Project Name="20-FACTORIAL" Path="20-FACTORIAL/20-FACTORIAL.project" Active="No"/>
-  <Project Name="21-dividir-sin-dividir" Path="21-dividir-sin-dividir/21-dividir-sin-dividir.project" Active="Yes"/>
+  <Project Name="21-dividir-sin-dividir" Path="21-dividir-sin-dividir/21-dividir-sin-dividir.project" Active="No"/>
+  <Project Name="22-FUNCIONES" Path="22-FUNCIONES/22-FUNCIONES.project" Active="No"/>
+  <Project Name="23-PROTOTIPOS" Path="23-PROTOTIPOS/23-PROTOTIPOS.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -45,6 +47,8 @@
       <Project Name="19-PRODUCTO-SIN-MULTIPLICAR" ConfigName="Debug"/>
       <Project Name="20-FACTORIAL" ConfigName="Debug"/>
       <Project Name="21-dividir-sin-dividir" ConfigName="Debug"/>
+      <Project Name="22-FUNCIONES" ConfigName="Debug"/>
+      <Project Name="23-PROTOTIPOS" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -69,6 +73,8 @@
       <Project Name="19-PRODUCTO-SIN-MULTIPLICAR" ConfigName="Release"/>
       <Project Name="20-FACTORIAL" ConfigName="Release"/>
       <Project Name="21-dividir-sin-dividir" ConfigName="Release"/>
+      <Project Name="22-FUNCIONES" ConfigName="Release"/>
+      <Project Name="23-PROTOTIPOS" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
