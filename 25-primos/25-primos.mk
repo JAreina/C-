@@ -3,10 +3,10 @@
 ## any manual changes will be erased      
 ##
 ## Release
-ProjectName            :=23-PROTOTIPOS
+ProjectName            :=25-primos
 ConfigurationName      :=Release
 WorkspacePath          :=/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite
-ProjectPath            :=/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/23-PROTOTIPOS
+ProjectPath            :=/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/25-primos
 IntermediateDirectory  :=./Release
 OutDir                 := $(IntermediateDirectory)
 CurrentFileName        :=
@@ -32,7 +32,7 @@ Preprocessors          :=$(PreprocessorSwitch)NDEBUG
 ObjectSwitch           :=-o 
 ArchiveOutputSwitch    := 
 PreprocessOnlySwitch   :=-E 
-ObjectsFileList        :="23-PROTOTIPOS.txt"
+ObjectsFileList        :="25-primos.txt"
 PCHCompileFlags        :=
 MakeDirCommand         :=mkdir -p
 LinkOptions            :=  
@@ -92,7 +92,7 @@ PreBuild:
 ## Objects
 ##
 $(IntermediateDirectory)/main.cpp$(ObjectSuffix): main.cpp $(IntermediateDirectory)/main.cpp$(DependSuffix)
-	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/23-PROTOTIPOS/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
+	$(CXX) $(IncludePCH) $(SourceSwitch) "/home/juan/0-tareas-xubuntu/C++/WORKSPACE-C++-codelite/25-primos/main.cpp" $(CXXFLAGS) $(ObjectSwitch)$(IntermediateDirectory)/main.cpp$(ObjectSuffix) $(IncludePath)
 $(IntermediateDirectory)/main.cpp$(DependSuffix): main.cpp
 	@$(CXX) $(CXXFLAGS) $(IncludePCH) $(IncludePath) -MG -MP -MT$(IntermediateDirectory)/main.cpp$(ObjectSuffix) -MF$(IntermediateDirectory)/main.cpp$(DependSuffix) -MM main.cpp
 

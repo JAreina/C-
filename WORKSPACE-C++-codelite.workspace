@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="WORKSPACE-C++-codelite" Database="">
+<CodeLite_Workspace Name="WORKSPACE-C++-codelite" Database="" Version="10.0.0">
   <Project Name="1-hola-mundo" Path="1-hola-mundo/1-hola-mundo.project" Active="No"/>
   <Project Name="2-funcion-inline" Path="2-funcion-inline/2-funcion-inline.project" Active="No"/>
   <Project Name="3-operador-de-alcance-de-variables" Path="3-operador-de-alcance-de-variables/3-operador-de-alcance-de-variables.project" Active="No"/>
@@ -22,9 +22,11 @@
   <Project Name="20-FACTORIAL" Path="20-FACTORIAL/20-FACTORIAL.project" Active="No"/>
   <Project Name="21-dividir-sin-dividir" Path="21-dividir-sin-dividir/21-dividir-sin-dividir.project" Active="No"/>
   <Project Name="22-FUNCIONES" Path="22-FUNCIONES/22-FUNCIONES.project" Active="No"/>
-  <Project Name="23-PROTOTIPOS" Path="23-PROTOTIPOS/23-PROTOTIPOS.project" Active="Yes"/>
+  <Project Name="23-PROTOTIPOS" Path="23-PROTOTIPOS/23-PROTOTIPOS.project" Active="No"/>
+  <Project Name="24-cassert" Path="24-cassert/24-cassert.project" Active="No"/>
+  <Project Name="25-primos" Path="25-primos/25-primos.project" Active="Yes"/>
   <BuildMatrix>
-    <WorkspaceConfiguration Name="Debug" Selected="yes">
+    <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
       <Project Name="1-hola-mundo" ConfigName="Debug"/>
       <Project Name="2-funcion-inline" ConfigName="Debug"/>
@@ -49,6 +51,8 @@
       <Project Name="21-dividir-sin-dividir" ConfigName="Debug"/>
       <Project Name="22-FUNCIONES" ConfigName="Debug"/>
       <Project Name="23-PROTOTIPOS" ConfigName="Debug"/>
+      <Project Name="24-cassert" ConfigName="Debug"/>
+      <Project Name="25-primos" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -75,6 +79,8 @@
       <Project Name="21-dividir-sin-dividir" ConfigName="Release"/>
       <Project Name="22-FUNCIONES" ConfigName="Release"/>
       <Project Name="23-PROTOTIPOS" ConfigName="Release"/>
+      <Project Name="24-cassert" ConfigName="Release"/>
+      <Project Name="25-primos" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
