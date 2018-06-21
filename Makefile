@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ 31-string-6-operaciones-predefinidas - Release ]----------"
-	@cd "31-string-6-operaciones-predefinidas" && "$(MAKE)" -f  "31-string-6-operaciones-predefinidas.mk"
+	@echo "----------Building project:[ 35-string-10-reemplazar-substring - Release ]----------"
+	@cd "35-string-10-reemplazar-substring" && "$(MAKE)" -f  "35-string-10-reemplazar-substring.mk"
 clean:
-	@echo "----------Cleaning project:[ 31-string-6-operaciones-predefinidas - Release ]----------"
-	@cd "31-string-6-operaciones-predefinidas" && "$(MAKE)" -f  "31-string-6-operaciones-predefinidas.mk" clean
+	@echo "----------Cleaning project:[ 35-string-10-reemplazar-substring - Release ]----------"
+	@cd "35-string-10-reemplazar-substring" && "$(MAKE)" -f  "35-string-10-reemplazar-substring.mk" clean

@@ -30,7 +30,11 @@
   <Project Name="28-string-3-getline" Path="28-string-3/28-string-3.project" Active="No"/>
   <Project Name="29-string-4-getline-delimitador" Path="29-string-4-getline-delimitador/29-string-4-getline-delimitador.project" Active="No"/>
   <Project Name="30-string-5" Path="30-string-5/30-string-5.project" Active="No"/>
-  <Project Name="31-string-6-operaciones-predefinidas" Path="31-string-6-operaciones-predefinidas/31-string-6-operaciones-predefinidas.project" Active="Yes"/>
+  <Project Name="31-string-6-operaciones-predefinidas" Path="31-string-6-operaciones-predefinidas/31-string-6-operaciones-predefinidas.project" Active="No"/>
+  <Project Name="32-sring-7-convertir-a-mayusculas" Path="32-sring-7-convertir-a-mayusculas/32-sring-7-convertir-a-mayusculas.project" Active="No"/>
+  <Project Name="33-string-8-cual-es-el-plural-de" Path="33-string-8-cual-es-el-plural-de/33-string-8-cual-es-el-plural-de.project" Active="No"/>
+  <Project Name="34-string-9-palindromo" Path="34-string-9-palindromo/34-string-9-palindromo.project" Active="No"/>
+  <Project Name="35-string-10-reemplazar-substring" Path="35-string-10-reemplazar-substring/35-string-10-reemplazar-substring.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
@@ -65,6 +69,10 @@
       <Project Name="29-string-4-getline-delimitador" ConfigName="Debug"/>
       <Project Name="30-string-5" ConfigName="Debug"/>
       <Project Name="31-string-6-operaciones-predefinidas" ConfigName="Debug"/>
+      <Project Name="32-sring-7-convertir-a-mayusculas" ConfigName="Debug"/>
+      <Project Name="33-string-8-cual-es-el-plural-de" ConfigName="Debug"/>
+      <Project Name="34-string-9-palindromo" ConfigName="Debug"/>
+      <Project Name="35-string-10-reemplazar-substring" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -99,6 +107,10 @@
       <Project Name="29-string-4-getline-delimitador" ConfigName="Release"/>
       <Project Name="30-string-5" ConfigName="Release"/>
       <Project Name="31-string-6-operaciones-predefinidas" ConfigName="Release"/>
+      <Project Name="32-sring-7-convertir-a-mayusculas" ConfigName="Release"/>
+      <Project Name="33-string-8-cual-es-el-plural-de" ConfigName="Release"/>
+      <Project Name="34-string-9-palindromo" ConfigName="Release"/>
+      <Project Name="35-string-10-reemplazar-substring" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
