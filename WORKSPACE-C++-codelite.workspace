@@ -38,7 +38,9 @@
   <Project Name="36-estructuras" Path="36-estructuras/36-estructuras.project" Active="No"/>
   <Project Name="10-1-variables-global-local-" Path="10-1-variables-global-local-/10-1-variables-global-local-.project" Active="No"/>
   <Project Name="37-estructuras-2" Path="37-estructuras-2/37-estructuras-2.project" Active="No"/>
-  <Project Name="38-union" Path="38-union/38-union.project" Active="Yes"/>
+  <Project Name="38-union" Path="38-union/38-union.project" Active="No"/>
+  <Project Name="39-asignacion-memoria-dinamica-NEW-DELETE" Path="39-asignacion-memoria-dinamica-NEW-DELETE/39-asignacion-memoria-dinamica-NEW-DELETE.project" Active="No"/>
+  <Project Name="40-asignacion-memoria-dinamicamnt-STRUCT" Path="40-asignacion-memoria-dinamicamnt-STRUCT/40-asignacion-memoria-dinamicamnt-STRUCT.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="no">
       <Environment/>
@@ -81,6 +83,8 @@
       <Project Name="10-1-variables-global-local-" ConfigName="Debug"/>
       <Project Name="37-estructuras-2" ConfigName="Debug"/>
       <Project Name="38-union" ConfigName="Debug"/>
+      <Project Name="39-asignacion-memoria-dinamica-NEW-DELETE" ConfigName="Debug"/>
+      <Project Name="40-asignacion-memoria-dinamicamnt-STRUCT" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -123,6 +127,8 @@
       <Project Name="10-1-variables-global-local-" ConfigName="Release"/>
       <Project Name="37-estructuras-2" ConfigName="Release"/>
       <Project Name="38-union" ConfigName="Release"/>
+      <Project Name="39-asignacion-memoria-dinamica-NEW-DELETE" ConfigName="Release"/>
+      <Project Name="40-asignacion-memoria-dinamicamnt-STRUCT" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
